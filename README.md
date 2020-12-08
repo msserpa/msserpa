@@ -20,8 +20,8 @@ I'm a Data Science Instructor at [@TargetTrust](https://targettrust.com.br) and 
 - [House Rent Prices Forecast](https://colab.research.google.com/)
 - [Credit Card Fraud Detection](https://colab.research.google.com/)
 - [Customer Churn Prediction](https://colab.research.google.com/)
-- [The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil](https://arxiv.org/abs/2010.08426)
 - [Optimizing Machine Learning Algorithms on Multi-Core and Many-Core Architectures Using Thread and Data Mapping](https://ieeexplore.ieee.org/abstract/document/8374481)
+- [The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil](https://arxiv.org/abs/2010.08426)
 
 
 ### Tools and Technologies
