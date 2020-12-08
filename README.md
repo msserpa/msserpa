@@ -7,7 +7,7 @@
 
 I'm a Data Science Instructor at [@TargetTrust](https://targettrust.com.br) and PhD Candidate at [@UFRGS](https://www.inf.ufrgs.br/site/en).
 
-- [Courses](https://targettrust.com.br/instrutor/matheus-serpa/) 👨🏼‍🏫 - Pyhon, Data Science and Machine Learning.
+- [Courses](https://targettrust.com.br/instrutor/matheus-serpa/) 👨🏼‍🏫 - Python, Data Science and Machine Learning.
 - [Website](https://www.inf.ufrgs.br/~msserpa/) 💻 - Working on it.
 - [Research](https://gitlab.com/msserpa) :books:  - I moved all my research repositories to [@Gitlab](https://gitlab.com/msserpa).
 
