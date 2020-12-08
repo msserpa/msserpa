@@ -52,6 +52,10 @@ I'm a Data Science Instructor at [@TargetTrust](https://targettrust.com.br) and 
 ![GitHub](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=plastic&logo=gitlab&logoColor=white)
 ![GitLab](https://img.shields.io/badge/github%20-%23121011.svg?&style=plastic&logo=github&logoColor=white)
 
+![macOS](https://img.shields.io/badge/macos-catalina.svg?style=plastic&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=plastic&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=plastic&logo=Windows&logoColor=white)
+
 <!--
 **msserpa/msserpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
