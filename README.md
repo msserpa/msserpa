@@ -13,6 +13,17 @@ I'm a Data Science Instructor at [@TargetTrust](https://targettrust.com.br) and 
 - [Website](https://www.inf.ufrgs.br/~msserpa/) 💻 - Working on it.
 - [Research](https://gitlab.com/msserpa) :books:  - I moved all my research repositories to [@Gitlab](https://gitlab.com/msserpa).
 
+### Projects
+
+- [Credit Card Customer Segmentation](https://colab.research.google.com/)
+- [Prediction of Alcohol Consumption](https://colab.research.google.com/)
+- [House Rent Prices Forecast](https://colab.research.google.com/)
+- [Credit Card Fraud Detection](https://colab.research.google.com/)
+- [Customer Churn Prediction](https://colab.research.google.com/)
+- [The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil](https://arxiv.org/abs/2010.08426)
+- [Optimizing Machine Learning Algorithms on Multi-Core and Many-Core Architectures Using Thread and Data Mapping](https://ieeexplore.ieee.org/abstract/document/8374481)
+
+
 ### Tools and Technologies
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=plastic&logo=Python&logoColor=white)
