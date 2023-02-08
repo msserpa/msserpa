@@ -7,7 +7,7 @@
 
 ### About me
 
-I'm a Data Scientist at [@DigiFarmz Smart Agriculture](https://www.digifarmz.com/) and PhD Candidate at [@UFRGS](https://www.inf.ufrgs.br/site/en).
+I'm a Data Scientist and PhD Candidate at [@UFRGS](https://www.inf.ufrgs.br/site/en).
 
 - [Courses](https://targettrust.com.br/instrutor/matheus-serpa/) 👨🏼‍🏫 - Python, Data Science and Machine Learning.
 - [Website](https://www.inf.ufrgs.br/~msserpa/) 💻 - Working on it.
