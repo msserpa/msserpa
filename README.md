@@ -7,22 +7,10 @@
 
 ### About me
 
-I'm a Data Scientist and PhD Candidate at [@UFRGS](https://www.inf.ufrgs.br/site/en).
+I'm a Tech Lead in Data Science with a Ph.D. in Computer Science from [@UFRGS](https://www.inf.ufrgs.br/site/en).
 
-- [Courses](https://targettrust.com.br/instrutor/matheus-serpa/) 👨🏼‍🏫 - Python, Data Science and Machine Learning.
-- [Website](https://www.inf.ufrgs.br/~msserpa/) 💻 - Working on it.
+- [Courses](https://targettrust.com.br/proximas-turmas/) 👨🏼‍🏫 - Python, Data Science and Machine Learning.
 - [Research](https://gitlab.com/msserpa) :books:  - I moved all my research repositories to [@Gitlab](https://gitlab.com/msserpa).
-
-### Projects
-
-- [Credit Card Customer Segmentation](https://colab.research.google.com/)
-- [Prediction of Alcohol Consumption](https://colab.research.google.com/)
-- [House Rent Prices Forecast](https://colab.research.google.com/)
-- [Credit Card Fraud Detection](https://colab.research.google.com/)
-- [Customer Churn Prediction](https://colab.research.google.com/)
-- [Optimizing Machine Learning Algorithms on Multi-Core and Many-Core Architectures Using Thread and Data Mapping](https://ieeexplore.ieee.org/abstract/document/8374481)
-- [The impact of school reopening strategies during COVID-19: A case study of Sao Paulo, Brazil](https://arxiv.org/abs/2010.08426)
-
 
 ### Tools and Technologies
 
