@@ -1,48 +1,19 @@
 ### Hi there 👋
 
+I am a Senior Data Scientist and Tech Lead with expertise in data science, machine learning, and data engineering. I specialize in developing and deploying data-driven solutions that tackle complex business challenges. With a PhD in Computer Science and extensive training in AWS Machine Learning, I am equipped to handle a diverse range of projects.
 
-[![Gmail Badge](https://img.shields.io/badge/-msserpa@inf.ufrgs.br-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:msserpa@inf.ufrgs.br "Connect via Email")
+I have successfully led teams in building machine learning models, designing data pipelines, and implementing continuous delivery processes. My technical proficiency includes Databricks, Python, SQL, and C++, as well as cloud platforms such as AWS and Azure. I excel in developing end-to-end machine learning solutions, from data preprocessing and model training to deployment and monitoring.
+
+Beyond technical expertise, I offer services in data analysis, predictive modeling, and custom data product creation. My commitment is to deliver high-quality, scalable solutions that drive business growth and enhance decision-making processes. Whether you need data engineering, machine learning models, or comprehensive data strategy consulting, I provide expert guidance and execution.
+
+Let's collaborate to transform your data into actionable insights and innovative solutions.
+
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Serpa-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusserpa/ "Connect on LinkedIn")
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/msserpa)](https://gitlab.com/msserpa)
 
-### About me
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=msserpa&show-other-skills=true&skills=apex,python,jupyter%20notebook,shell,C,C%2B%2B&sort-by-score=true&tooltip=true&legend=true&labels=true&branding=true"
+/>
 
-I'm a Tech Lead in Data Science with a Ph.D. in Computer Science from [@UFRGS](https://www.inf.ufrgs.br/site/en).
-
-- [Courses](https://targettrust.com.br/proximas-turmas/) 👨🏼‍🏫 - Python, Data Science and Machine Learning.
-- [Research](https://gitlab.com/msserpa) :books:  - I moved all my research repositories to [@Gitlab](https://gitlab.com/msserpa).
-
-### Tools and Technologies
-
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=plastic&logo=Python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Flask](https://img.shields.io/badge/flask%20-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-
-![C](https://img.shields.io/badge/C%20-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-%23276DC3?&style=plastic&logo=r&logoColor=white)
-
-![Ansible](https://img.shields.io/badge/ansible%20-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white)
-
-![Latex](https://img.shields.io/badge/latex%20-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![ShellScript](https://img.shields.io/badge/shell_script%20-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=plastic&logo=gitlab&logoColor=white)
-![GitLab](https://img.shields.io/badge/github%20-%23121011.svg?&style=plastic&logo=github&logoColor=white)
-
-![macOS](https://img.shields.io/badge/macos-catalina.svg?style=plastic&logo=apple&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=plastic&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=plastic&logo=Windows&logoColor=white)
 
 <!--
 **msserpa/msserpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
