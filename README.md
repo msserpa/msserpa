@@ -1,31 +1,30 @@
-### Hi there 👋
+# 👋 Hi there
 
-I am a Senior Data Scientist and Tech Lead with expertise in data science, machine learning, and data engineering. I specialize in developing and deploying data-driven solutions that tackle complex business challenges. With a PhD in Computer Science and extensive training in AWS Machine Learning, I am equipped to handle a diverse range of projects.
+I'm a Senior Data Scientist and Tech Lead focused on applied AI, scalable data systems, and product-led delivery. I combine technical depth with decisive leadership to turn complex data problems into measurable business outcomes across legal, healthcare, education, energy and agriculture.
 
-I have successfully led teams in building machine learning models, designing data pipelines, and implementing continuous delivery processes. My technical proficiency includes Databricks, Python, SQL, and C++, as well as cloud platforms such as AWS and Azure. I excel in developing end-to-end machine learning solutions, from data preprocessing and model training to deployment and monitoring.
+I lead cross-functional teams, define technical and product vision, and deliver end-to-end solutions — from data architecture and model lifecycle automation to operational integration and stakeholder alignment. My approach is results-first: clear goals, fast iterations, repeatable delivery.
 
-Beyond technical expertise, I offer services in data analysis, predictive modeling, and custom data product creation. My commitment is to deliver high-quality, scalable solutions that drive business growth and enhance decision-making processes. Whether you need data engineering, machine learning models, or comprehensive data strategy consulting, I provide expert guidance and execution.
+## 🔧 Core Expertise
+- **AI & ML:** LLMs, Retrieval-Augmented Generation (RAG), supervised learning, model evaluation & monitoring  
+- **Data & Engineering:** Databricks, Spark, MLflow, Airflow, data architecture, APIs, scalable pipelines  
+- **Cloud & Ops:** Serverless and event-driven patterns on AWS (Lambda, SQS, Batch, Bedrock), CI/CD for models  
+- **Product & Strategy:** Roadmaps, OKRs, product metrics, prioritization, user-centered ML features  
+- **Leadership & Delivery:** Team hiring & mentoring, stakeholder management, cross-functional alignment, technical vision, cost & risk trade-offs  
+- **Business Impact:** Translating technical work into revenue/efficiency outcomes, operational KPIs, and improved decision latency
 
-Let's collaborate to transform your data into actionable insights and innovative solutions.
+## ⚡ Impact & Outcomes (high-level)
+- Designed Generative AI solutions that automated document interpretation and drastically reduced manual triage time.  
+- Built recommendation systems and personalization layers to improve user engagement and content relevance.  
+- Implemented serverless ingestion and processing pipelines to accelerate research and data workflows.  
+- Delivered AI-driven automation for O&M processes, improving reliability and lowering operational costs.  
+- Led predictive modeling and decision-support solutions for digital agriculture, enhancing operational performance.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Serpa-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheusserpa/ "Connect on LinkedIn")
+## 📣 How I work
+- Goal-oriented: define measurable outcomes and iterate quickly.  
+- Hands-on leader: write code, review architecture, and unblock teams.  
+- Pragmatic trade-offs: balance speed, cost, maintainability and model quality.  
+- Communicative: translate technical choices into business implications for execs and product teams.
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=msserpa&show-other-skills=true&skills=apex,python,jupyter%20notebook,shell,C,C%2B%2B&sort-by-score=true&tooltip=true&legend=true&labels=true&branding=true"
-/>
+---
 
-
-<!--
-**msserpa/msserpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusserpa/)
