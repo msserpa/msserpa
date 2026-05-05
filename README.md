@@ -1,30 +1,31 @@
-# 👋 Hi there
+# Matheus Serpa, PhD
 
-I'm a Senior Data Scientist and Tech Lead focused on applied AI, scalable data systems, and product-led delivery. I combine technical depth with decisive leadership to turn complex data problems into measurable business outcomes across legal, healthcare, education, energy and agriculture.
+AI Solutions Architect and Data Science Lead focused on production-grade AI systems, scalable data platforms, and high-performance computing.
 
-I lead cross-functional teams, define technical and product vision, and deliver end-to-end solutions — from data architecture and model lifecycle automation to operational integration and stakeholder alignment. My approach is results-first: clear goals, fast iterations, repeatable delivery.
+I design and deliver applied AI solutions for complex environments, connecting architecture, machine learning, generative AI, RAG, automation, data pipelines, MLOps, and operational integration. My work spans enterprise
+consulting, digital agriculture, public sector, healthcare, energy, and scientific computing.
 
-## 🔧 Core Expertise
-- **AI & ML:** LLMs, Retrieval-Augmented Generation (RAG), supervised learning, model evaluation & monitoring  
-- **Data & Engineering:** Databricks, Spark, MLflow, Airflow, data architecture, APIs, scalable pipelines  
-- **Cloud & Ops:** Serverless and event-driven patterns on AWS (Lambda, SQS, Batch, Bedrock), CI/CD for models  
-- **Product & Strategy:** Roadmaps, OKRs, product metrics, prioritization, user-centered ML features  
-- **Leadership & Delivery:** Team hiring & mentoring, stakeholder management, cross-functional alignment, technical vision, cost & risk trade-offs  
-- **Business Impact:** Translating technical work into revenue/efficiency outcomes, operational KPIs, and improved decision latency
+## Focus Areas
 
-## ⚡ Impact & Outcomes (high-level)
-- Designed Generative AI solutions that automated document interpretation and drastically reduced manual triage time.  
-- Built recommendation systems and personalization layers to improve user engagement and content relevance.  
-- Implemented serverless ingestion and processing pipelines to accelerate research and data workflows.  
-- Delivered AI-driven automation for O&M processes, improving reliability and lowering operational costs.  
-- Led predictive modeling and decision-support solutions for digital agriculture, enhancing operational performance.
+- Enterprise AI architecture for production environments
+- Applied AI, recommendation, classification, prediction, and decision-support systems
+- Generative AI, RAG, LLM-based systems, and intelligent agents
+- Data science, machine learning, MLOps, and model monitoring
+- Data pipelines, APIs, automation, and system integration
+- High-performance computing, GPU environments, Slurm, MPI, CUDA, and performance optimization
+- Technical leadership, product strategy, roadmap planning, and cross-functional delivery
 
-## 📣 How I work
-- Goal-oriented: define measurable outcomes and iterate quickly.  
-- Hands-on leader: write code, review architecture, and unblock teams.  
-- Pragmatic trade-offs: balance speed, cost, maintainability and model quality.  
-- Communicative: translate technical choices into business implications for execs and product teams.
+## Selected Work
 
----
+- Generative AI systems for legal document interpretation, classification, and triage
+- Recommendation systems for healthcare and scientific content
+- Serverless data pipelines for scientific publication processing
+- AI-driven automation for operations and maintenance workflows
+- Predictive modeling and decision-support systems for digital agriculture
+- HPC infrastructure, Linux administration, Docker/container environments, benchmarking, and scientific computing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusserpa/)
+## How I Work
+
+I combine hands-on technical execution with architecture, product thinking, and business alignment. I care about systems that leave the prototype stage and become reliable, measurable, and useful in production.
+
+[LinkedIn](https://www.linkedin.com/in/matheusserpa/)
